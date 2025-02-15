@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: 211-Builder
+name: OpenWrt-212
 
 on:
   repository_dispatch:
